@@ -1,4 +1,4 @@
-//Module 1 Assigment 1-1
+//Module 1 Assignment 1-1
 #include <stdio.h>
 
 int main(void){
